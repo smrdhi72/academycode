@@ -1,0 +1,32 @@
+h2{
+	color:grey;
+}
+h5{
+	color: red;
+}
+
+.col-xs-8{
+	text-align: left;
+	font-family: Open Sans,'sans-serif';
+}
+
+.card{
+	font-family: Open Sans,'sans-serif';	
+}
+
+body{
+	font-family: Open Sans,'sans-serif';
+}
+#RB
+{
+ background-image: url('../images/banner1.jpg') ;
+  background-repeat: no-repeat;
+   opacity: 0.9
+}
+#pp
+{
+	text-align: center;
+
+}
+
+
